@@ -41,5 +41,4 @@ This is my personal portfolio website built using React.
 
 ## 🔗 Live Website
 https://portfolio-vaishnavii.netlify.app/
-## 📸 Screenshots
-(Add screenshots here if required by your teacher)
+
